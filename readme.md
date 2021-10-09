@@ -25,7 +25,7 @@ The plated slots between the segments stop light from bleeding through to neighb
 
 For this demo, the display is being driven by an Arduino. Each segment draws about 15 mA which the digital ports can handle just fine.
 
-If you wanted to, you could put any color LEDs on this board. I don't see why 
+If you wanted to, you could put any color LEDs on this board. I don't see why not!
 
 ## Questions
 
